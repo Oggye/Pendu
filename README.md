@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Pendu
-=======
 # Jeu du Pendu
 
 
