@@ -120,4 +120,3 @@ Le jeu utilise l'API Blagues pour récupérer des mots aléatoires. La clé API 
 3. Committer vos changements (git commit -m 'Add some amazing feature')
 4. Pousser vers la branche (git push origin feature/amazing-feature)
 5. Ouvrir une Pull Request
->>>>>>> 14606ab (Pendu)
